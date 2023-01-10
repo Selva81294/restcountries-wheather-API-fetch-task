@@ -9,7 +9,8 @@ body{
     margin-bottom:10px;
     box-shadow: 3px 3px 10px 0px;
     background-color:darkslategray; 
-    height: 80vh
+    height:auto;
+    padding-bottom: 130px;
 }
 .info{
    text-align:center;
